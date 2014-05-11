@@ -1,0 +1,804 @@
+TNaturalPixel
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Info.plist /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/ofxiOS-Info.plist
+cCpResource /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig Build/Products/Debug-iphonesimulator/NaturalPixel.app/CoreOF.xcconfig
+cCpResource Project.xcconfig Build/Products/Debug-iphonesimulator/NaturalPixel.app/Project.xcconfig
+cCpResource bin/data/Icon.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Icon.png
+cCpResource bin/data/Icon@2x.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Icon@2x.png
+cCpResource bin/data/Default.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default.png
+cCpResource bin/data/Default@2x.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default@2x.png
+cCpResource bin/data/Default-568h@2x~iphone.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default-568h@2x~iphone.png
+cProcessPCH++ /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-cdgdbbsiukuawpgeqdojpjljcqdj/ofxiOS_Prefix.pch.pch ofxiOS_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/main.o /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/ofApp.o /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/ofApp.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/NaturalPixel normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005349411D0000000000000198
+t1397309725
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531E49E800000000000003B4
+t1394493928
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531E4A04000000000000019E
+t1394493956
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000531E4A0C0000000000484210
+t1394493964
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000531E4A0A0000000000904120
+t1394493962
+s9453856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053493F3D0000000000446820
+t1397309245
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000531E4A0F00000000000F1A80
+t1394493967
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000531E4A0F000000000013B8C0
+t1394493967
+s1292480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531E4A11000000000004B000
+t1394493969
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531E4A14000000000088D8C0
+t1394493972
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c00000000531E4A1C00000000002E6B60
+t1394493980
+s3042144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c00000000531E4A1F000000000007C0D0
+t1394493983
+s508112
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531E4A210000000000037680
+t1394493985
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531E4A21000000000048F720
+t1394493985
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531E4A310000000001F1DE10
+t1394494001
+s32628240
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/NaturalPixel.LinkFileList
+c00000000536FA4900000000000000171
+t1399825552
+s369
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/main.o
+t1399825553
+s296944
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/ofApp.o
+t1399825553
+s309960
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-cdgdbbsiukuawpgeqdojpjljcqdj/ofxiOS_Prefix.pch.pch
+t1399825552
+s6285988
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/CoreOF.xcconfig
+t2
+s0
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default-568h@2x~iphone.png
+t2
+s0
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default.png
+t2
+s0
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default@2x.png
+t2
+s0
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Icon.png
+t2
+s0
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Icon@2x.png
+t2
+s0
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Info.plist
+t2
+s0
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/NaturalPixel
+t2
+s0
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/PkgInfo
+t2
+s0
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Project.xcconfig
+t2
+s0
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Project.xcconfig
+c00000000536E600100000000000001C4
+t1399742465
+s452
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/bin/data/Default-568h@2x~iphone.png
+c00000000536E600100000000000045BA
+t1399742465
+s17850
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/bin/data/Default.png
+c00000000536E600100000000000016FC
+t1399742465
+s5884
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/bin/data/Default@2x.png
+c00000000536E60010000000000002AC5
+t1399742465
+s10949
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/bin/data/Icon.png
+c00000000536E600100000000000008EF
+t1399742465
+s2287
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/bin/data/Icon@2x.png
+c00000000536E60010000000000000F3C
+t1399742465
+s3900
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/ofxiOS-Info.plist
+c00000000536E60010000000000000605
+t1399742465
+s1541
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/ofxiOS_Prefix.pch
+c00000000536E600100000000000000B5
+t1399742465
+s181
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/main.mm
+c00000000536E6001000000000000009F
+t1399742465
+s159
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/ofApp.mm
+c00000000536FA3070000000000001262
+t1399825159
+s4706
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworksCompiled/lib/ios/libofxiOS_iphonesimulator_Debug.a
+c00000000536FA4900000000002FB0218
+t1399825552
+s50004504
+
+N/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig
+c0000000053379B680000000000000A29
+t1396153192
+s2601
+
+CBuild AST from /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/main.mm
+r0
+
+CBuild AST from /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/ofApp.mm
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies008f9c10dc1fb941^4bea9c10dc1fb941^---0#1#1#--18"Check dependencies36"6BFC190E-F7EE-4FC1-84A2-A8B6A4A1A8CA-
+
+CCompileC Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/main.o /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421518353.078163
+e421518353.898795
+r1
+xCompileC
+xBuild/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/main.o
+x/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/main.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/main.mm
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/ofMain.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofConstants.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/tess2/include/tesselator.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofFileUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/File.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Foundation.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Config.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Platform.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Platform_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Bugcheck.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Types.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Timestamp.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/File_UNIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofLog.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/types/ofTypes.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/types/ofColor.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofMath.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/types/ofPoint.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofVec3f.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofVec2f.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofVec4f.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Mutex.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Exception.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/ScopedLock.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Mutex_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofSystemUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofThread.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Thread.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Thread_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Runnable.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SignalHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Event.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Event_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/RefCountedObject.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/AtomicCounter.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/AutoPtr.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofURLFileLoader.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/events/ofEvents.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/events/ofEventUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/PriorityEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/AbstractEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SingletonHolder.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SharedPtr.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/ActiveResult.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/ActiveMethod.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/ActiveRunnable.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/ActiveStarter.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/ThreadPool.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/PriorityStrategy.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/NotificationStrategy.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/AbstractPriorityDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/AbstractDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/PriorityDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/PriorityExpire.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/FunctionPriorityDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/events/ofDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Condition.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/ScopedUnlock.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Path.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/types/ofBaseTypes.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/types/ofRectangle.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/3d/ofMesh.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofGLUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofPixels.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofMatrix4x4.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofQuaternion.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofXml.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/Document.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/XML.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/AbstractNode.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/Node.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/EventTarget.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/DOMObject.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/XMLString.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/NamespaceSupport.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/MutationEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/Event.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/DocumentEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/Element.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/Name.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/NamePool.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/AutoReleasePool.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/DocumentFragment.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/DOMParser.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/SAXParser.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/XMLReader.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/ParserEngine.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/expat.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/expat_external.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/XMLStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/Locator.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/TextEncoding.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/DOMException.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/XMLException.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/SAXException.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/XMLWriter.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/ContentHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/LexicalHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/DTDHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/StreamConverter.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/UnbufferedStreamBuf.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/StreamUtil.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/DOMWriter.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/Attr.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/Text.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/CharacterData.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/NodeIterator.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/NodeFilter.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/NamedNodeMap.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/ChildNodesList.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/NodeList.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/types/ofParameter.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/types/ofParameterGroup.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Any.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofVectorMath.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofMatrix3x3.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofFbo.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofTexture.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofVboMesh.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofVbo.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofGLRenderer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofPolyline.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofGraphics.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofMatrixStack.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofLight.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/3d/ofNode.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/3d/of3dUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/of3dGraphics.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/3d/of3dPrimitives.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofMaterial.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofShader.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/RegularExpression.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/app/ofAppBaseWindow.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofImage.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofPath.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofTessellator.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofRendererCollection.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofTrueTypeFont.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/app/ofBaseApp.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/app/ofAppRunner.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/sound/ofSoundStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/sound/ofBaseSoundStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/sound/ofxiOSSoundStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/sound/ofSoundPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/sound/ofxiOSSoundPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/video/ofVideoGrabber.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/video/ofxiOSVideoGrabber.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/video/ofVideoPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/video/ofxiOSVideoPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/3d/ofCamera.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/3d/ofEasyCam.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/ofApp.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/ofxiOS.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxAccelerometer/src/ofxAccelerometer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/events/ofxiOSAlerts.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/events/ofxiOSAlertsListener.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/app/ofxiOSApp.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxMultiTouch/src/ofxMultiTouch.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxMultiTouch/src/ofxMultiTouchListener.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/utils/ofxiOSExtras.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/app/ofAppiOSWindow.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/core/ofxiOSAppDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/core/ofxiOSEAGLView.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/gl/EAGLView.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/gl/ESRenderer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/utils/ofxiOSKeyboard.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/utils/ofxiOSCoreLocation.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/utils/ofxiOSImagePicker.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/utils/ofxiOSMapKit.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/utils/ofxiOSMapKitListener.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/main.mm197"CompileC Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/main.o src/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler931c1411dc1fb941^9819e611dc1fb941^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/main.mm0000000000000000^5305"CompileC Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/main.o src/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -stdlib=libstdc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wno-protocol -Wdeprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/NaturalPixel-generated-files.hmap -I/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/NaturalPixel-own-target-headers.hmap -I/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/NaturalPixel-all-target-headers.hmap -iquote /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/NaturalPixel-project-headers.hmap -I/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiOS -I../../../addons/ofxiOS/src -I../../../addons/ofxiOS/src/app -I../../../addons/ofxiOS/src/core -I../../../addons/ofxiOS/src/events -I../../../addons/ofxiOS/src/gl -I../../../addons/ofxiOS/src/sound -I../../../addons/ofxiOS/src/utils -I../../../addons/ofxiOS/src/video -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -I../../../libs/openssl/include -I/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/DerivedSources/i386 -I/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/DerivedSources -F/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator -include /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-cdgdbbsiukuawpgeqdojpjljcqdj/ofxiOS_Prefix.pch -MMD -MT dependencies -MF /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/main.dia -c /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/main.mm -o /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/main.o36"F3176B5C-3A38-4967-B9EE-651D5E368E0C-
+b7EE833D3-7F31-49A8-BF03-B03C2A11D798
+
+CCompileC Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/ofApp.o /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/ofApp.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421518353.078173
+e421518353.909665
+r1
+xCompileC
+xBuild/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/ofApp.o
+x/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/ofApp.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/ofApp.mm
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/ofApp.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/ofMain.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofConstants.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/tess2/include/tesselator.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofFileUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/File.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Foundation.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Config.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Platform.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Platform_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Bugcheck.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Types.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Timestamp.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/File_UNIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofLog.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/types/ofTypes.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/types/ofColor.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofMath.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/types/ofPoint.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofVec3f.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofVec2f.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofVec4f.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Mutex.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Exception.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/ScopedLock.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Mutex_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofSystemUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofThread.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Thread.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Thread_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Runnable.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SignalHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Event.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Event_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/RefCountedObject.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/AtomicCounter.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/AutoPtr.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofURLFileLoader.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/events/ofEvents.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/events/ofEventUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/PriorityEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/AbstractEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SingletonHolder.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SharedPtr.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/ActiveResult.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/ActiveMethod.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/ActiveRunnable.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/ActiveStarter.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/ThreadPool.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/PriorityStrategy.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/NotificationStrategy.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/AbstractPriorityDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/AbstractDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/PriorityDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/PriorityExpire.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/FunctionPriorityDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/events/ofDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Condition.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/ScopedUnlock.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Path.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/types/ofBaseTypes.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/types/ofRectangle.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/3d/ofMesh.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofGLUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofPixels.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofMatrix4x4.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofQuaternion.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofXml.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/Document.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/XML.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/AbstractNode.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/Node.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/EventTarget.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/DOMObject.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/XMLString.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/NamespaceSupport.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/MutationEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/Event.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/DocumentEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/Element.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/Name.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/NamePool.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/AutoReleasePool.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/DocumentFragment.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/DOMParser.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/SAXParser.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/XMLReader.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/ParserEngine.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/expat.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/expat_external.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/XMLStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/Locator.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/TextEncoding.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/DOMException.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/XMLException.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/SAXException.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/XML/XMLWriter.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/ContentHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/LexicalHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/SAX/DTDHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/StreamConverter.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/UnbufferedStreamBuf.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/StreamUtil.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/DOMWriter.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/Attr.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/Text.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/CharacterData.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/NodeIterator.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/NodeFilter.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/NamedNodeMap.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/ChildNodesList.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/DOM/NodeList.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/types/ofParameter.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/types/ofParameterGroup.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/Any.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofVectorMath.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/math/ofMatrix3x3.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofFbo.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofTexture.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofVboMesh.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofVbo.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofGLRenderer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofPolyline.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofGraphics.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/utils/ofMatrixStack.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofLight.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/3d/ofNode.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/3d/of3dUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/of3dGraphics.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/3d/of3dPrimitives.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofMaterial.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofShader.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/include/Poco/RegularExpression.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/app/ofAppBaseWindow.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofImage.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofPath.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofTessellator.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofRendererCollection.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/graphics/ofTrueTypeFont.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/app/ofBaseApp.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/app/ofAppRunner.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/sound/ofSoundStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/sound/ofBaseSoundStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/sound/ofxiOSSoundStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/sound/ofSoundPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/sound/ofxiOSSoundPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/video/ofVideoGrabber.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/video/ofxiOSVideoGrabber.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/video/ofVideoPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/video/ofxiOSVideoPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/3d/ofCamera.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworks/3d/ofEasyCam.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/ofxiOS.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxAccelerometer/src/ofxAccelerometer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/events/ofxiOSAlerts.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/events/ofxiOSAlertsListener.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/app/ofxiOSApp.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxMultiTouch/src/ofxMultiTouch.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxMultiTouch/src/ofxMultiTouchListener.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/utils/ofxiOSExtras.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/app/ofAppiOSWindow.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/core/ofxiOSAppDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/core/ofxiOSEAGLView.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/gl/EAGLView.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/gl/ESRenderer.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/utils/ofxiOSKeyboard.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/utils/ofxiOSCoreLocation.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/utils/ofxiOSImagePicker.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/utils/ofxiOSMapKit.h
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/addons/ofxiOS/src/utils/ofxiOSMapKitListener.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/ofApp.mm199"CompileC Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/ofApp.o src/ofApp.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compilera41c1411dc1fb941^54e0e811dc1fb941^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/ofApp.mm0000000000000000^5311"CompileC Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/ofApp.o src/ofApp.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -stdlib=libstdc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wno-protocol -Wdeprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/NaturalPixel-generated-files.hmap -I/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/NaturalPixel-own-target-headers.hmap -I/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/NaturalPixel-all-target-headers.hmap -iquote /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/NaturalPixel-project-headers.hmap -I/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiOS -I../../../addons/ofxiOS/src -I../../../addons/ofxiOS/src/app -I../../../addons/ofxiOS/src/core -I../../../addons/ofxiOS/src/events -I../../../addons/ofxiOS/src/gl -I../../../addons/ofxiOS/src/sound -I../../../addons/ofxiOS/src/utils -I../../../addons/ofxiOS/src/video -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -I../../../libs/openssl/include -I/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/DerivedSources/i386 -I/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/DerivedSources -F/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator -include /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-cdgdbbsiukuawpgeqdojpjljcqdj/ofxiOS_Prefix.pch -MMD -MT dependencies -MF /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/ofApp.d --serialize-diagnostics /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/ofApp.dia -c /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/src/ofApp.mm -o /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/ofApp.o36"F4F4E30C-2496-4752-B516-799A6FCCDBB9-
+b7EE833D3-7F31-49A8-BF03-B03C2A11D798
+
+CCpResource /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig Build/Products/Debug-iphonesimulator/NaturalPixel.app/CoreOF.xcconfig
+s421518352.626345
+e421518352.629861
+r1
+xCpResource
+x/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig
+xBuild/Products/Debug-iphonesimulator/NaturalPixel.app/CoreOF.xcconfig
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/NaturalPixel.app/CoreOF.xcconfig188"CpResource /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig Build/Products/Debug-iphonesimulator/NaturalPixel.app/CoreOF.xcconfig3274a010dc1fb941^073fa110dc1fb941^---0#0#1#-19%DVTDocumentLocation2@162"file://localhost/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/CoreOF.xcconfig003820abdcffdf42^945"CpResource /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig Build/Products/Debug-iphonesimulator/NaturalPixel.app/CoreOF.xcconfig    cd /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app36"621BCC1B-D268-474C-BC42-980B4F19506F-
+b7EE833D3-7F31-49A8-BF03-B03C2A11D798
+
+CCpResource Project.xcconfig Build/Products/Debug-iphonesimulator/NaturalPixel.app/Project.xcconfig
+s421518352.626361
+e421518352.633811
+r1
+xCpResource
+xProject.xcconfig
+xBuild/Products/Debug-iphonesimulator/NaturalPixel.app/Project.xcconfig
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy Build/Products/Debug-iphonesimulator/NaturalPixel.app/Project.xcconfig98"CpResource Project.xcconfig Build/Products/Debug-iphonesimulator/NaturalPixel.app/Project.xcconfigfb74a010dc1fb941^d445a210dc1fb941^---0#0#1#-19%DVTDocumentLocation2@163"file://localhost/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Project.xcconfig003820abdcffdf42^841"CpResource Project.xcconfig Build/Products/Debug-iphonesimulator/NaturalPixel.app/Project.xcconfig    cd /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Project.xcconfig /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app36"4A41F989-06A9-4987-8A84-0A229295A551-
+b7EE833D3-7F31-49A8-BF03-B03C2A11D798
+
+CCpResource bin/data/Default-568h@2x~iphone.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default-568h@2x~iphone.png
+s421518352.626432
+e421518352.631287
+r1
+xCpResource
+xbin/data/Default-568h@2x~iphone.png
+xBuild/Products/Debug-iphonesimulator/NaturalPixel.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default-568h@2x~iphone.png127"CpResource bin/data/Default-568h@2x~iphone.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default-568h@2x~iphone.pngee77a010dc1fb941^6b9ca110dc1fb941^---0#0#1#-19%DVTDocumentLocation2@173"file://localhost/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default-568h@2x~iphone.png003820abdcffdf42^889"CpResource bin/data/Default-568h@2x~iphone.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default-568h@2x~iphone.png    cd /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/bin/data/Default-568h@2x~iphone.png /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app36"F1AE06C4-0A2A-483F-915D-ED69332EB27D-
+b7EE833D3-7F31-49A8-BF03-B03C2A11D798
+
+CCpResource bin/data/Default.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default.png
+s421518352.626403
+e421518352.628833
+r1
+xCpResource
+xbin/data/Default.png
+xBuild/Products/Debug-iphonesimulator/NaturalPixel.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default.png97"CpResource bin/data/Default.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default.png8275a010dc1fb941^fcfba010dc1fb941^---0#0#1#-19%DVTDocumentLocation2@158"file://localhost/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default.png003820abdcffdf42^844"CpResource bin/data/Default.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default.png    cd /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/bin/data/Default.png /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app36"E8A256E4-FDB9-4D52-835B-C63987D3D2BD-
+b7EE833D3-7F31-49A8-BF03-B03C2A11D798
+
+CCpResource bin/data/Default@2x.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default@2x.png
+s421518352.626415
+e421518352.632640
+r1
+xCpResource
+xbin/data/Default@2x.png
+xBuild/Products/Debug-iphonesimulator/NaturalPixel.app/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default@2x.png103"CpResource bin/data/Default@2x.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default@2x.pngc575a010dc1fb941^38f5a110dc1fb941^---0#0#1#-19%DVTDocumentLocation2@161"file://localhost/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default@2x.png003820abdcffdf42^853"CpResource bin/data/Default@2x.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Default@2x.png    cd /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/bin/data/Default@2x.png /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app36"0DE1E75A-7960-429D-BB6B-4401733B90AB-
+b7EE833D3-7F31-49A8-BF03-B03C2A11D798
+
+CCpResource bin/data/Icon.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Icon.png
+s421518352.626385
+e421518352.635049
+r1
+xCpResource
+xbin/data/Icon.png
+xBuild/Products/Debug-iphonesimulator/NaturalPixel.app/Icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy Build/Products/Debug-iphonesimulator/NaturalPixel.app/Icon.png91"CpResource bin/data/Icon.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Icon.png1c79a010dc1fb941^2993a210dc1fb941^---0#0#1#-19%DVTDocumentLocation2@155"file://localhost/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Icon.png003820abdcffdf42^835"CpResource bin/data/Icon.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Icon.png    cd /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/bin/data/Icon.png /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app36"A3B768B0-495C-41C8-8BD9-2694FAC69B02-
+b7EE833D3-7F31-49A8-BF03-B03C2A11D798
+
+CCpResource bin/data/Icon@2x.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Icon@2x.png
+s421518352.626396
+e421518352.636408
+r1
+xCpResource
+xbin/data/Icon@2x.png
+xBuild/Products/Debug-iphonesimulator/NaturalPixel.app/Icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy Build/Products/Debug-iphonesimulator/NaturalPixel.app/Icon@2x.png97"CpResource bin/data/Icon@2x.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Icon@2x.png187aa010dc1fb941^18eca210dc1fb941^---0#0#1#-19%DVTDocumentLocation2@158"file://localhost/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Icon@2x.png003820abdcffdf42^844"CpResource bin/data/Icon@2x.png Build/Products/Debug-iphonesimulator/NaturalPixel.app/Icon@2x.png    cd /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/bin/data/Icon@2x.png /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app36"24E4B682-2353-4A26-8018-F13B26FFE82F-
+b7EE833D3-7F31-49A8-BF03-B03C2A11D798
+
+CGenerateDSYMFile /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app.dSYM /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/NaturalPixel
+r0
+
+CLd /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/NaturalPixel normal i386
+s421518353.918880
+e421518357.071819
+r0
+xLd
+x/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/NaturalPixel
+xnormal
+xi386
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/NaturalPixel.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/main.o
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/ofApp.o
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/FreeImage/lib/osx/freeimage.a
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/freetype/lib/ios/freetype.a
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/lib/ios/PocoNet.a
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/lib/ios/PocoNetSSL.a
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/lib/ios/PocoCrypto.a
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/lib/ios/PocoXML.a
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/lib/ios/PocoZip.a
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/lib/ios/PocoUtil.a
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/poco/lib/ios/PocoFoundation.a
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/tess2/lib/ios/tess2.a
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/glu/lib/ios/glu.a
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openssl/lib/ios/ssl.a
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openssl/lib/ios/crypto.a
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworksCompiled/lib/ios/libofxiOS_iphonesimulator_Debug.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libstdc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++abi.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+old: warning: ignoring file ../../../libs/FreeImage/lib/ios/freeimage.a, missing required architecture i386 in file ../../../libs/FreeImage/lib/ios/freeimage.a (2 slices)
+old: warning: ignoring file ../../../libs/glu/lib/ios/glu-ios.a, missing required architecture i386 in file ../../../libs/glu/lib/ios/glu-ios.a (2 slices)
+oUndefined symbols for architecture i386:
+o  "ofxiOSVideoGrabber::ofxiOSVideoGrabber()", referenced from:
+o      ofVideoGrabber::initGrabber(int, int, bool) in libofxiOS_iphonesimulator_Debug.a(ofVideoGrabber.o)
+o      ofVideoGrabber::listDevices() in libofxiOS_iphonesimulator_Debug.a(ofVideoGrabber.o)
+old: symbol(s) not found for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Link /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/NaturalPixel81"Ld Build/Products/Debug-iphonesimulator/NaturalPixel.app/NaturalPixel normal i386554eeb11dc1fb941^56621215dc1fb941^-750"ld: warning: ignoring file ../../../libs/FreeImage/lib/ios/freeimage.a, missing required architecture i386 in file ../../../libs/FreeImage/lib/ios/freeimage.a (2 slices)ld: warning: ignoring file ../../../libs/glu/lib/ios/glu-ios.a, missing required architecture i386 in file ../../../libs/glu/lib/ios/glu-ios.a (2 slices)Undefined symbols for architecture i386:  "ofxiOSVideoGrabber::ofxiOSVideoGrabber()", referenced from:      ofVideoGrabber::initGrabber(int, int, bool) in libofxiOS_iphonesimulator_Debug.a(ofVideoGrabber.o)      ofVideoGrabber::listDevices() in libofxiOS_iphonesimulator_Debug.a(ofVideoGrabber.o)ld: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)7(21%IDEActivityLogMessage2@156"Ignoring file ../../../libs/FreeImage/lib/ios/freeimage.a, missing required architecture i386 in file ../../../libs/FreeImage/lib/ios/freeimage.a (2 slices)-421518353#0#170#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@140"Ignoring file ../../../libs/glu/lib/ios/glu-ios.a, missing required architecture i386 in file ../../../libs/glu/lib/ios/glu-ios.a (2 slices)-421518353#170#154#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@60""ofxiOSVideoGrabber::ofxiOSVideoGrabber()", referenced from:-421518357#365#63#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@98"OfVideoGrabber::initGrabber(int, int, bool) in libofxiOS_iphonesimulator_Debug.a(ofVideoGrabber.o)-421518357#428#105#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@84"OfVideoGrabber::listDevices() in libofxiOS_iphonesimulator_Debug.a(ofVideoGrabber.o)-421518357#533#91#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41"Symbol(s) not found for architecture i386-421518357#624#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-421518357#670#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--2602"Ld Build/Products/Debug-iphonesimulator/NaturalPixel.app/NaturalPixel normal i386    cd /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator -F/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator -filelist /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/NaturalPixel.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC ../../../libs/FreeImage/lib/osx/freeimage.a ../../../libs/freetype/lib/ios/freetype.a ../../../libs/FreeImage/lib/ios/freeimage.a ../../../libs/poco/lib/ios/PocoNet.a ../../../libs/poco/lib/ios/PocoNetSSL.a ../../../libs/poco/lib/ios/PocoCrypto.a ../../../libs/poco/lib/ios/PocoXML.a ../../../libs/poco/lib/ios/PocoZip.a ../../../libs/poco/lib/ios/PocoUtil.a ../../../libs/poco/lib/ios/PocoFoundation.a ../../../libs/tess2/lib/ios/tess2.a ../../../libs/glu/lib/ios/glu.a ../../../libs/glu/lib/ios/glu-ios.a ../../../libs/openssl/lib/ios/ssl.a ../../../libs/openssl/lib/ios/crypto.a -stdlib=libstdc++ -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/libs/openFrameworksCompiled/lib/ios/libofxiOS_iphonesimulator_Debug.a -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -framework QuartzCore -framework AudioToolbox -framework OpenAL -framework CoreLocation -framework CoreGraphics -framework AVFoundation -framework CoreMedia -framework CoreVideo -framework MapKit -Xlinker -dependency_info -Xlinker /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Objects-normal/i386/NaturalPixel_dependency_info.dat -o /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/NaturalPixel36"D278498D-FA20-4006-B718-4816D8109126-
+b7EE833D3-7F31-49A8-BF03-B03C2A11D798
+
+CPhaseScriptExecution Run\ Script /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/Script-9255DD331112741900D6945E.sh
+r0
+
+CProcessInfoPlistFile /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Info.plist /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/ofxiOS-Info.plist
+s421518352.614734
+e421518352.617766
+r1
+xProcessInfoPlistFile
+x/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Info.plist
+x/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/ofxiOS-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Process /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/ofxiOS-Info.plist103"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/NaturalPixel.app/Info.plist ofxiOS-Info.plist096d9d10dc1fb941^91269e10dc1fb941^---0#0#1#-19%DVTDocumentLocation2@110"file://localhost/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/ofxiOS-Info.plist0000000000000000^865"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/NaturalPixel.app/Info.plist ofxiOS-Info.plist    cd /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/ofxiOS-Info.plist -genpkginfo /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app/Info.plist36"986F8E05-CA4E-42E1-8040-D729BDA32E50-
+b7EE833D3-7F31-49A8-BF03-B03C2A11D798
+
+CProcessPCH++ /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-cdgdbbsiukuawpgeqdojpjljcqdj/ofxiOS_Prefix.pch.pch ofxiOS_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421518352.646503
+e421518353.069143
+r1
+xProcessPCH++
+x/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-cdgdbbsiukuawpgeqdojpjljcqdj/ofxiOS_Prefix.pch.pch
+xofxiOS_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/ofxiOS_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile ofxiOS_Prefix.pch204"ProcessPCH++ Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-cdgdbbsiukuawpgeqdojpjljcqdj/ofxiOS_Prefix.pch.pch ofxiOS_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler399ca510dc1fb941^8db31111dc1fb941^---0#0#1#-19%DVTDocumentLocation2@110"file://localhost/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/ofxiOS_Prefix.pch0000000000000000^5126"ProcessPCH++ Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-cdgdbbsiukuawpgeqdojpjljcqdj/ofxiOS_Prefix.pch.pch ofxiOS_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -stdlib=libstdc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wno-protocol -Wdeprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/NaturalPixel-generated-files.hmap -I/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/NaturalPixel-own-target-headers.hmap -I/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/NaturalPixel-all-target-headers.hmap -iquote /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/NaturalPixel-project-headers.hmap -I/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiOS -I../../../addons/ofxiOS/src -I../../../addons/ofxiOS/src/app -I../../../addons/ofxiOS/src/core -I../../../addons/ofxiOS/src/events -I../../../addons/ofxiOS/src/gl -I../../../addons/ofxiOS/src/sound -I../../../addons/ofxiOS/src/utils -I../../../addons/ofxiOS/src/video -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -I../../../libs/openssl/include -I/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/DerivedSources/i386 -I/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/NaturalPixel.build/Debug-iphonesimulator/NaturalPixel.build/DerivedSources -F/Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-cdgdbbsiukuawpgeqdojpjljcqdj/ofxiOS_Prefix.pch.dia -MMD -MT dependencies -MF /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-cdgdbbsiukuawpgeqdojpjljcqdj/ofxiOS_Prefix.pch.d -c /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/ofxiOS_Prefix.pch -o /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-cdgdbbsiukuawpgeqdojpjljcqdj/ofxiOS_Prefix.pch.pch36"FC3DD2EE-C242-4E44-A59E-B8093A3393BB-
+b7EE833D3-7F31-49A8-BF03-B03C2A11D798
+
+CProcessPCH++ /Users/gentleman/Library/Developer/Xcode/DerivedData/NaturalPixel-dovnacqcizbkfgeuuyvizrscogpz/Index/PrecompiledHeaders/ofxiOS_Prefix-ckyxjomwrvxgebfyrxuktrlmxrrq_ast/ofxiOS_Prefix.pch.pch ofxiOS_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/gentleman/Developer/oF/of_v0.8.1_ios_release/apps/myApps/NaturalPixel/Build/Products/Debug-iphonesimulator/NaturalPixel.app
+r0
+
